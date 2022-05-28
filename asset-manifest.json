@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5de31ea.css",
-    "main.js": "/static/js/main.06a0aa2a.js",
-    "static/js/787.aff2354d.chunk.js": "/static/js/787.aff2354d.chunk.js",
-    "index.html": "/index.html",
-    "main.e5de31ea.css.map": "/static/css/main.e5de31ea.css.map",
-    "main.06a0aa2a.js.map": "/static/js/main.06a0aa2a.js.map",
-    "787.aff2354d.chunk.js.map": "/static/js/787.aff2354d.chunk.js.map"
+    "main.css": "/circles-app/static/css/main.e5de31ea.css",
+    "main.js": "/circles-app/static/js/main.65214c97.js",
+    "static/js/787.aff2354d.chunk.js": "/circles-app/static/js/787.aff2354d.chunk.js",
+    "index.html": "/circles-app/index.html",
+    "main.e5de31ea.css.map": "/circles-app/static/css/main.e5de31ea.css.map",
+    "main.65214c97.js.map": "/circles-app/static/js/main.65214c97.js.map",
+    "787.aff2354d.chunk.js.map": "/circles-app/static/js/787.aff2354d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5de31ea.css",
-    "static/js/main.06a0aa2a.js"
+    "static/js/main.65214c97.js"
   ]
 }
